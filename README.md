@@ -1,5 +1,5 @@
 # LeetCode
-So far I did 300 tasks on https://leetcode.com/ practising Python:
+So far I did over 300 tasks on https://leetcode.com/ practising Python:
 - 240 easy tasks
-- 50 medium tasks
-- 10 hard tasks
+- 120 medium tasks
+- 18 hard tasks
